@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Alan 😀
 
-- ⭐ Atualmente estou estudando HTML, CSS, JS e ReactJS com o objetivo de ser FullStack.
+- ⭐ Atualmente estou estudando HTML, CSS, JS e ReactJS e tenho como objetivo, ser FullStack.
 
 <a href="https://www.linkedin.com/in/alan--gomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
