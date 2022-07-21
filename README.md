@@ -1,15 +1,15 @@
-<img align="left" alt="Alan-pic" height="150" style="border-radius:90px;" src="https://docs.google.com/uc?id=1Rhw9ZJrwZYWT4bve0gigjked92EUhyTK">
+<img align="left" alt="Alan-pic" height="150" style="border-radius:90px;" src="https://docs.google.com/uc?id=1OIw8jeecS6o67suj327U8HaKSBJeubKY">
 
 ## Olá! Eu sou o Alan 😀
 
-### ⭐ Atualmente estou estudando HTML, CSS, JS e ReactJS e tenho como objetivo, ser FullStack.
+### Atualmente estou estudando HTML, CSS, JS e ReactJS e tenho como objetivo, ser Full Stack.
 
 ##
 
 <div>
   <a href="https://github.com/AlanGomes">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlanGomes&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanGomes&layout=compact&langs_count=7&theme=solarized-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlanGomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanGomes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block" align="left"><br>
@@ -17,7 +17,6 @@
   <img align="center" alt="Alan-css" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="Alan-js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alan-react" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  
 </div>
 
 ##
