@@ -16,13 +16,10 @@
   <img align="center" alt="Alan-python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="Alan-powerbi" height="60" width="60" src="https://cdn.windowsreport.com/wp-content/uploads/2019/07/Fix-power-bi-cant-find-app.jpg">
   <img align="center" alt="Alan-sql" height="60" width="60" src="https://images.squarespace-cdn.com/content/v1/5489b1f6e4b0c7fbb9e64fcb/1563937591028-0TZL01YARJUS7NT3LK3P/transact-sql.png">
-  
   <img align="center" alt="Alan-html" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Alan-css" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="Alan-js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Alan-react" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-
-  
+   
 </div>
 
 ##
