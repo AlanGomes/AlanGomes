@@ -15,6 +15,7 @@
 <div style="display: inline_block" align="left"><br>
   <img align="center" alt="Alan-python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="Alan-powerbi" height="60" width="60" src="https://cdn.windowsreport.com/wp-content/uploads/2019/07/Fix-power-bi-cant-find-app.jpg">
+  <img align="center" alt="Alan-html" height="60" width="60" src="https://i.morioh.com/210616/70373e47.webp">
   
   <img align="center" alt="Alan-html" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Alan-css" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
